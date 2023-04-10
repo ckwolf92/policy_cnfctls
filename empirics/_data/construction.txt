@@ -1,0 +1,11 @@
+Series		Source/Construction
+	
+ygap_hp		replication files for Barnichon and Mesters (2020), series "Ygap_hp"
+pgdp		replication files for Ramey (2016), series "pgdp"
+ffr		FRED: series "FEDFUNDS"
+lpcom		replication files for Ramey (2016), series "LPCOM" (aggregation by averaging the monthly series)
+rr_3		replication files for Wieland and Yang (2019), series "resid_full"
+mp1_tc		replication files for Ramey (2016), series "mp1_tc" (aggregation by averaging the monthly series)
+ad		replication files for Aruoba and Drechsel (2012) (aggregation by averaging the monthly series)
+mar_svariv	replication files for MAR (2021), save SVAR-IV shocks at posterior median
+bzk_ist_news	replication files for Ramey (2016), series "bzk_ist_news"
